@@ -1,4 +1,4 @@
-import { Jugador } from "./Jugador.js";
+import { Jugador } from "./src/Player.js";
 
 class Juego {
   constructor(nombre) {
@@ -10,14 +10,14 @@ addJugadores(nombre) {
 
     let jugador= new Jugador(nombre)
     this.jugadores.push(jugador);// guardo los objetos en el array
-     
     
-
-
   }
   
 
+ 
 
+
+   
 
 
 }

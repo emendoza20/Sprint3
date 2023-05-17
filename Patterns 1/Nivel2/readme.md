@@ -11,6 +11,7 @@ Tengo 4 clases **App**, **Jugador**, **Juego**,**Marcador**
 1) Donde la clase **Jugador** tendrá como atributos el nombre del jugador y la puntuacion,se definen mas arriba los atributos nombre y puntajes valores por defecto si no se le pasa ningun valor como argumento.
 
 2) La clase **Juego** tendra un constructor que tendra como varible un array de jugadores para ir almacenando los diferentes jugadores.
+     a) Tendra un metodo addJugadores(nombre) recibe como parametro el nombre creara jugadores con la clase **Jugadores**y añadira al array jugadores todos los diferentes jugadores a crear 
 
  
 

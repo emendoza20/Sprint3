@@ -1,0 +1,21 @@
+{
+  "name": "nivel2",
+  "description": "Nivel 2 :star: :star:",
+  "version": "1.0.0",
+  "main": "Juego.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
