@@ -17,3 +17,7 @@ Tengo 4 clases **App**, **Jugador**, **Juego**,**Marcador**
 
  
  
+Notas importantes :
+
+
+https://medium.com/@jesusmurfontanals/singleton-pattern-con-javascript-3eb1c03f184e

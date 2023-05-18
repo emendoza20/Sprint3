@@ -3,7 +3,7 @@ class Score {
     //if (Score.instance) {
     //return Score.instance;
     //}//
-    if (typeof Score.instance === "object") {// creandi
+    if (typeof Score.instance === "object") { 
       return Score.instance;
     }
     Score.instance = this;
